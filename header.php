@@ -8,6 +8,6 @@
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   <script src="https://use.fontawesome.com/e8a42d7e14.js"></script>
-  <title>Document</title>
+  <title>Pricelist</title>
 </head>
 <body>

@@ -44,4 +44,6 @@ $price_total=priceListTotal();
     <th>X</th>
   </tr> 
 </table>
-
+<p>
+  <?php echo $price_total['notice'] ?>
+</p>

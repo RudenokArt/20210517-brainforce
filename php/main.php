@@ -5,7 +5,6 @@ priceListUpload();
 
 
 
-
 function priceListUpload(){
   if (isset($_FILES['pricelist'])) {
     $take = $_FILES['pricelist']['tmp_name'];

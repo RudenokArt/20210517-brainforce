@@ -13,6 +13,7 @@
     </form>
   </div>
 </div>
+<?php include_once 'filter.php' ?>
 <div class="price_table"></div>
 
 <div class="preloader_wrapper">
